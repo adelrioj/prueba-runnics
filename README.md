@@ -18,4 +18,4 @@ El problema a resolver será una kata de código relativamente sencilla, que se 
 
 Si tienes cualquier duda respecto al problema propuesto ponte en contacto con nostros para aclarar las dudas.
 
-__La fecha límite para presentar una solución será el viernes 3 de mayo__
+__La fecha límite para presentar una solución será el viernes 6 de mayo de 2016__
