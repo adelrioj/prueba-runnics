@@ -10,7 +10,7 @@ Para realizar la prueba basta con que hagas un fork de este repositorio y que cu
 
 ## Requisitos
 
-No hay ningún requisito en particular, tan sólo has el fork del repositorio y completa la prueba en tu lenguaje favorito, con las prácticas que consideres oportunas o haciendo uso de las herramientas que consideres apropiadas.
+No hay ningún requisito en particular, tan sólo haz el fork del repositorio y completa la prueba en tu lenguaje favorito, con las prácticas que consideres oportunas o haciendo uso de las herramientas que consideres apropiadas.
 
 ## El problema
 
