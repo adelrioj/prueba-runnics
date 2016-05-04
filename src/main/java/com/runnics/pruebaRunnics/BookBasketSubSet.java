@@ -7,6 +7,8 @@ import java.util.List;
 import static com.google.common.collect.Lists.newArrayList;
 
 /**
+ * Represents a set of tuplas that have the same amount of books than the original book basket.
+ * e.g. (2,0,0,0,0) -> (1,0,0,0,0),(1,0,0,0,0).
  *
  * @author adelrioj
  */

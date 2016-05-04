@@ -6,8 +6,14 @@ import java.math.BigDecimal;
 import java.util.List;
 
 /**
- * Kata potter implementation.
+ * Kata potter implementation controller.
+ * <p />
+ * This implementation uses brute force to calculate all possible subsets of books, using recursiveness: <br />
+ * A list of books can be represented by the 5-tupla (a,b,c,d,e).The first element of the tupla contains the number
+ * of occurrences of book 1 and so on (tupla[0] = a, tupla[1]=b...)<br />
+ * The function getPrice() determines the minimum price. For example, price(1,0,0,0,0) = 8, price(0, 1, 1, 0, 0) = 15.2.
  *
+ * @see <a href=http://www.codingdojo.org/cgi-bin/index.pl?action=browse&id=KataPotter&revision=41">Kata Potter</a>
  * @author adelrioj
  */
 public class KataPotter {
